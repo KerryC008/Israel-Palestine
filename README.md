@@ -1,2 +1,2 @@
 # Israel-Palestine
-Text Attribute Analysis
+Text Attributes Analysis
